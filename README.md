@@ -71,6 +71,25 @@ In order to compile solutions locally (OSX) where the helper library was used*:
 * [x] String methods
 * [x] Taking command line arguments and performing basic validation
 
+## Pset3
+
+### Specs:
+
+1. *mystery.c*
+   + Discover who commited the crime by reading and manipulating .bmp files
+
+2. *newSize.c*
+   + Resize an image passed in by user with their scale factor of choice
+
+3. *getBack.c*
+   + Recover deleted JPEGs from a forensic snapshot of a camera's memory card
+
+### Learning goals:
+
+* [x] Reading to and writing from files and using file pointers
+* [x] Working with .bmp files
+* [x] Being mindful of memory
+* [x] Manipulating images programmatically
 
 *Course unnamed in order to respect wishes not to litter the internet with easily searchable solutions... but here's a sneaky hint:
 
