@@ -31,4 +31,4 @@ I'm using the [Microsoft C/C++ extension](https://marketplace.visualstudio.com/i
 
 *Course unnamed in order to respect wishes not to litter the internet with easily searchable solutions... but here's a sneaky hint:
 
-![David Malan](malan.jpg)
+![David Malan](images/malan.jpg)
