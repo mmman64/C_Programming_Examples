@@ -91,6 +91,28 @@ In order to compile solutions locally (OSX) where the helper library was used*:
 * [x] Being mindful of memory
 * [x] Manipulating images programmatically
 
+## Pset4
+
+### Specs:
+
+1. *speller.c*
+   + Implement a fast spell checker, ignoring memory cost to focus on speed.
+
+### Learning goals:
+
+* [x] Taking time/memory into account when programming
+* [x] Differentiating "asymptotic time" and "real time"
+* [x] Compiling more complex programs (with config file)
+* [x] Loading from disk to memory - using hash tables
+* [x] More pointers
+* [x] Memory allocation and freeing up memory
+* [x] Using structs
+* [x] Benchmark tests
+* [x] String comparisons
+* [x] Hash functions
+
+
+
 *Course unnamed in order to respect wishes not to litter the internet with easily searchable solutions... but here's a sneaky hint:
 
 ![David Malan](images/malan.jpg)
