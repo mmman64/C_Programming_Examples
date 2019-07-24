@@ -1,12 +1,28 @@
-# C Programming Examples
+# Course50
 
-Having taken a certain well-known online intro to CS course* I was required to solve some problems in C.
+Having taken a certain well-known online *"Introduction to Computer Science course,* this repository serves to showcase what I learnt as well as the solutions I came up with.
 
-Here are my solutions that I will update over time as I learn more about C and programming in general.
+# Table of Contents
+
+* [Team Members](#team-members)
+
+As the course covers a broad range of topics, the solutions also serve as interesting foundational templates to experiment with, and improve upon, as I continue to learn more.
+
+I've grouped the Psets by the predominant technology used for clarity.
+
+## Table of Contents
+
+* [Programming with C](#c-programming)
+* [Simple Website](#website)
+* [Programming with Python](#python)
+* [Programming with Javascript](#javascript)
+
+
+## <a name="c-programming"></a>Programming with C
 
 I'm using the [Microsoft C/C++ extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) for Visual Studio Code and the [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) extension where possible to run these programs locally on OSX.
 
-For some solutions, I've taken advantage of the course's provided helper library to allow myself to focus on solving the problem's rather than get bogged down in C's intricacies. I may rewrite these solutions without the helper library at a later date if I'll choose/need to work with C, or simply as a challenge.
+For some solutions, I've taken advantage of the course's provided helper library to focus on solving the problems rather than getting bogged down in C's intricacies. I may rewrite these solutions without the helper library at a later date if I'll choose/need to work with C, or simply as a challenge.
 
 In order to compile solutions locally (OSX) where the helper library was used*:
 
@@ -29,7 +45,8 @@ In order to compile solutions locally (OSX) where the helper library was used*:
 7. Execute the program like so: `./filename`
 
 *Steps taken from [here](https://cs50.stackexchange.com/a/2998/23961).
-## Pset1
+
+## Pset 1
 
 ### Specs:
 
@@ -41,8 +58,6 @@ In order to compile solutions locally (OSX) where the helper library was used*:
    + Get user input in dollars
    + Output the minimum number of coins that can be given in change (from 25, 10, 5, 1 cent coins)
 
-
-
 ### Learning goals:
 
 * [x] Getting user input
@@ -52,7 +67,7 @@ In order to compile solutions locally (OSX) where the helper library was used*:
 * [x] Arithmetic operations
 * [x] Working with ints and floats
 
-## Pset2
+## Pset 2
 
 ### Specs:
 
@@ -71,7 +86,7 @@ In order to compile solutions locally (OSX) where the helper library was used*:
 * [x] String methods
 * [x] Taking command line arguments and performing basic validation
 
-## Pset3
+## Pset 3
 
 ### Specs:
 
@@ -91,7 +106,7 @@ In order to compile solutions locally (OSX) where the helper library was used*:
 * [x] Being mindful of memory
 * [x] Manipulating images programmatically
 
-## Pset4
+## Pset 4
 
 ### Specs:
 
@@ -111,7 +126,9 @@ In order to compile solutions locally (OSX) where the helper library was used*:
 * [x] String comparisons
 * [x] Hash functions
 
-
+# <a name="website"></a>Simple website
+# <a name="python"></a>Programming with Python
+# <a name="javascript"></a>Programming with JavaScript
 
 *Course unnamed in order to respect wishes not to litter the internet with easily searchable solutions... but here's a sneaky hint:
 
