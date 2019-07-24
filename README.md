@@ -4,8 +4,6 @@ Having taken a certain well-known online *"Introduction to Computer Science cour
 
 # Table of Contents
 
-* [Team Members](#team-members)
-
 As the course covers a broad range of topics, the solutions also serve as interesting foundational templates to experiment with, and improve upon, as I continue to learn more.
 
 I've grouped the Psets by the predominant technology used for clarity.
